@@ -19,7 +19,7 @@ namespace zd_3
             set
             {
                 volume = value;
-                weight = value * 0.1;
+                weight = value * 0.5 + 13.7;
             }
 
         }
@@ -28,8 +28,8 @@ namespace zd_3
             get { return weight; }
             set
             {
-                weight = value;
-                volume = value / 0.1;
+                weight = value +13.7; //waga butli z tlenem
+                volume = value / 0.5;
             }
         }
         public double MaxCapacity
@@ -39,7 +39,19 @@ namespace zd_3
         }
         public double VisitPort()
         {
-            return volume = maxCapacity;
+            volume = maxCapacity;
+            if (Volume > 10)
+            {
+                return volume * 10.0; //im wieksza butla tym taniej za litr wychodzi
+            }
+            else if(Volume <10 && Volume > 5)
+            {
+                return volume * 12.0;
+            }
+            else
+            {
+                return volume * 15.0;
+            }
         }
 
     }

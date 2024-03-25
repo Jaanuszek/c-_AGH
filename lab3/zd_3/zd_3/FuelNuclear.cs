@@ -13,23 +13,6 @@ namespace zd_3
             density = 0.8;
             material = "Nuclear";
         }
-        public override double Volume
-        {
-            get { return volume; }
-            set 
-            { 
-                volume = value;
-                weight = value * density;
-            }
-        }
-        public override double Weight
-        {
-            get { return weight; }
-            set
-            {
-                weight = value;
-                volume = value / density;
-            }
-        }
+
     }
 }

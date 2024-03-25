@@ -14,7 +14,7 @@ namespace zd_3
             this.equipment = equipment;
         }
 
-        public void Work(double time)
+        public override void Work(double time)
         {
             equipment.GatherData(); // zbiera dane na początku, a potem co 24 godziny
             int elapsedTime = 0;

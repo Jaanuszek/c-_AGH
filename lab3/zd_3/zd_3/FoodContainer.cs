@@ -42,7 +42,7 @@ namespace zd_3
         public double VisitPort()
         {
             volume = maxCapacity;
-            return 5;
+            return weight*30;
         }
     }
 }

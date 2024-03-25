@@ -21,11 +21,11 @@ namespace zd_3
         {
             if(tank.CheckFuelMaterial() == "Nuclear")
             {
-                return 100*0.01*submarineWeight;
+                return 100-(1000/submarineWeight);
             }
             else
             {
-                return 70*0.01*submarineWeight;
+                return 70-(1000/submarineWeight);
             }
         }
         public bool CheckFuelBeforeTravel(double travelTime)
@@ -36,7 +36,7 @@ namespace zd_3
             }
             else if (travelTime <10.0 && tank.Volume>25.0)
             {
-                return true; //dorobic
+                return true;
             }
             else if (travelTime <100.0 && tank.Volume >75.0)
             {
@@ -49,7 +49,7 @@ namespace zd_3
         }
         public void Travel(double travelTime)
         {
-            tank.Weight -= 2.5*travelTime;
+            tank.Weight -= 3*travelTime;
             waste.Weight += tank.Weight *travelTime;
         }
     }

@@ -36,7 +36,7 @@ namespace zd_3
                 volume = weight / density;
             }
         }
-        public string Material
+        public virtual string Material
         {
             get
             {

@@ -9,14 +9,14 @@ namespace zd_3
 {
     internal class Waste : IVisitPort
     {
-        protected double volume, weight;
+        private double volume, weight;
         public double Volume
         {
             get { return volume; }
             set
             {
                 volume = value;
-                weight = value * 0.1;
+                weight = value * 3;
             }
 
         }
@@ -26,13 +26,22 @@ namespace zd_3
             set
             {
                 weight = value;
-                volume = value / 0.1;
+                volume = value / 3;
             }
         }
         public double VisitPort()
         {
             volume = 0;
-            return volume;
+            bool mixedWaste = new Random().Next(2)==0; // "==0" zeby przekształcić int na bool
+            if( mixedWaste )
+            {
+                return weight * 2.5;
+            }
+            else 
+            {
+                return weight * 0.5;
+            }
+
         }
     }
 }

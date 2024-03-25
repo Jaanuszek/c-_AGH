@@ -13,8 +13,6 @@ namespace zd_3
             Console.WriteLine();
             // uncomment this if you are ready for the submarine simulation
             Submarine.Demo();
-            //FuelNuclear d = new FuelNuclear();
-            //Console.WriteLine(d.Material);
         }
     }
 }

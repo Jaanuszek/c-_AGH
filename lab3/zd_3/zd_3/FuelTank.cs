@@ -21,7 +21,7 @@ namespace zd_3
             get { return fuel.Volume; }
             set {
                 fuel.Volume = value;
-                fuel.Weight = value * 0.8;
+                fuel.Weight = value * 2;
             }
         }
         public double Weight
@@ -33,15 +33,22 @@ namespace zd_3
             set
             {
                 fuel.Weight = value;
-                fuel.Volume = value / 0.8;
+                fuel.Volume = value / 2;
             }
         }
         public double MaxCapacity { get; }
 
         public double VisitPort()
         {
-            return fuel.Volume = MaxCapacity;
-
+            fuel.Volume = MaxCapacity;
+            if(fuel.Material == "Diesel")
+            {
+                return fuel.Weight * 6.21;
+            }
+            else
+            {
+                return fuel.Weight * 3.68; //podobno tyle kosztuje paliwo lotnicze bez akcyzy
+            }
         }
         
         public string CheckFuelMaterial()

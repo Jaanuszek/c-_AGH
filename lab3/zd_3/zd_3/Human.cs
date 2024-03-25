@@ -33,7 +33,7 @@ namespace zd_3
                 volume = value / 1.0;
             }
         }
-        //abstract public void Breath();
+        abstract public void Work(double time);
 
     }
 }

@@ -12,3 +12,4 @@ C:\Users\Kuba\Desktop\c#_AGH\lab3\zd_3\zd_3\obj\Debug\net8.0\refint\zd_3.dll
 C:\Users\Kuba\Desktop\c#_AGH\lab3\zd_3\zd_3\obj\Debug\net8.0\zd_3.pdb
 C:\Users\Kuba\Desktop\c#_AGH\lab3\zd_3\zd_3\obj\Debug\net8.0\zd_3.genruntimeconfig.cache
 C:\Users\Kuba\Desktop\c#_AGH\lab3\zd_3\zd_3\obj\Debug\net8.0\ref\zd_3.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab3\zd_3\zd_3\obj\Debug\net8.0\zd_3.sourcelink.json
