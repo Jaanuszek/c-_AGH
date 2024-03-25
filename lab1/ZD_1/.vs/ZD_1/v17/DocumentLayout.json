@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|c:\\users\\kuba\\desktop\\c#_agh\\zd_1\\zd_1\\noga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|solutionrelative:zd_1\\noga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|c:\\users\\kuba\\desktop\\c#_agh\\zd_1\\zd_1\\dlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|solutionrelative:zd_1\\dlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|c:\\users\\kuba\\desktop\\c#_agh\\zd_1\\zd_1\\ramie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|solutionrelative:zd_1\\ramie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|c:\\users\\kuba\\desktop\\c#_agh\\zd_1\\zd_1\\konczyna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|solutionrelative:zd_1\\konczyna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|c:\\users\\kuba\\desktop\\c#_agh\\zd_1\\zd_1\\stopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|solutionrelative:zd_1\\stopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|c:\\users\\kuba\\desktop\\c#_agh\\zd_1\\zd_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0348F22-A563-4017-9B00-53460070C66A}|ZD_1\\ZD_1.csproj|solutionrelative:zd_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stopa.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Stopa.cs",
+              "RelativeDocumentMoniker": "ZD_1\\Stopa.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Stopa.cs",
+              "RelativeToolTip": "ZD_1\\Stopa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:36:13.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Noga.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Noga.cs",
+              "RelativeDocumentMoniker": "ZD_1\\Noga.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Noga.cs",
+              "RelativeToolTip": "ZD_1\\Noga.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:35:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dlon.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Dlon.cs",
+              "RelativeDocumentMoniker": "ZD_1\\Dlon.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Dlon.cs",
+              "RelativeToolTip": "ZD_1\\Dlon.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:33:56.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ramie.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Ramie.cs",
+              "RelativeDocumentMoniker": "ZD_1\\Ramie.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Ramie.cs",
+              "RelativeToolTip": "ZD_1\\Ramie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:25:04.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Konczyna.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Konczyna.cs",
+              "RelativeDocumentMoniker": "ZD_1\\Konczyna.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Konczyna.cs",
+              "RelativeToolTip": "ZD_1\\Konczyna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:23:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Program.cs",
+              "RelativeDocumentMoniker": "ZD_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\ZD_1\\ZD_1\\Program.cs",
+              "RelativeToolTip": "ZD_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:21:13.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

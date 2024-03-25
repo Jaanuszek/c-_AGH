@@ -1,0 +1,14 @@
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\bin\Debug\net8.0\ZD_1.exe
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\bin\Debug\net8.0\ZD_1.deps.json
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\bin\Debug\net8.0\ZD_1.runtimeconfig.json
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\bin\Debug\net8.0\ZD_1.dll
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\bin\Debug\net8.0\ZD_1.pdb
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\ZD_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\ZD_1.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\ZD_1.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\ZD_1.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\ZD_1.dll
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\refint\ZD_1.dll
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\ZD_1.pdb
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\ZD_1.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\c#_AGH\ZD_1\ZD_1\obj\Debug\net8.0\ref\ZD_1.dll
