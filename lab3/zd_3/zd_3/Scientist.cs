@@ -13,7 +13,6 @@ namespace zd_3
         public Scientist(Equipment equipment) { 
             this.equipment = equipment;
         }
-
         public override void Work(double time)
         {
             equipment.GatherData(); // zbiera dane na początku, a potem co 24 godziny
@@ -23,6 +22,7 @@ namespace zd_3
                 if(elapsedTime == 24)
                 {
                     equipment.GatherData();
+                    elapsedTime = 0;
                 }
                 elapsedTime += 1;
                 time -= 1;

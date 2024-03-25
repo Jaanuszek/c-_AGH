@@ -43,11 +43,11 @@ namespace zd_3
             fuel.Volume = MaxCapacity;
             if(fuel.Material == "Diesel")
             {
-                return fuel.Weight * 6.21;
+                return fuel.Volume * 6.21;
             }
             else
             {
-                return fuel.Weight * 3.68; //podobno tyle kosztuje paliwo lotnicze bez akcyzy
+                return fuel.Volume * 3.68; //podobno tyle kosztuje paliwo lotnicze bez akcyzy
             }
         }
         
