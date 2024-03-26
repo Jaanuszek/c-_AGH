@@ -18,7 +18,14 @@ namespace zd_3
 
             set
             {
-                volume = value;
+                if(value > 0)
+                {
+                    volume = value;
+                }
+                else
+                {
+                    volume = 0;
+                }
                 weight = value * 3.0; //gestosc czlowieka to 1000kg/m^3 tak google podpowiada 
             }
 
@@ -29,7 +36,14 @@ namespace zd_3
 
             set
             {
-                weight = value;
+                if(value > 0)
+                {
+                    weight = value;
+                }
+                else
+                {
+                    weight = 0;
+                }
                 volume = value / 3.0;
             }
         }

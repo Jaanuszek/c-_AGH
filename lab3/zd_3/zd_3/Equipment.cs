@@ -13,8 +13,15 @@ namespace zd_3
 
             set
             {
-                volume = value;
-                weight = value * 2.0; // assume density equal to 7000 kg/m^3 (arbitrary number)
+                if(value > 0)
+                {
+                    volume = value;
+                } // assume density equal to 7000 kg/m^3 (arbitrary number)
+                else
+                {
+                    volume = 0;
+                }
+                weight = value * 2.0;
             }
         }
         public double Weight
@@ -23,8 +30,15 @@ namespace zd_3
 
             set
             {
-                weight = value;
-                volume = value / 2.0; // assume density equal to 7000 kg/m^3 (arbitrary number)
+                if(value > 0)
+                { 
+                    weight = value;
+                } // assume density equal to 7000 kg/m^3 (arbitrary number)
+                else
+                {
+                    weight = 0;
+                }
+                volume = value / 2.0;
             }
         }
         public void GatherData()

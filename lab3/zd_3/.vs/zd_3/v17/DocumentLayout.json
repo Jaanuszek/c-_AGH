@@ -3,76 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\foodcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\foodcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\scientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\scientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\oxygenbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\oxygenbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\fueltank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\fueltank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\waste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\waste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\ivisitport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\ivisitport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\lifesupportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\lifesupportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\fueldiesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\fueldiesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\fuelnuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\fuelnuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\testcontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\testcontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\testsubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\testsubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\testcontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\testcontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\scientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\scientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\oxygenbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\oxygenbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\fueltank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\fueltank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\lifesupportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\lifesupportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\ivisitport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\ivisitport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\itransportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\itransportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\fuelnuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\fuelnuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\fueldiesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\fueldiesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\foodcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\foodcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|solutionrelative:zd_3\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B012F84C-99E3-4BD1-8C51-8AED7A3AE33D}|zd_3\\zd_3.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab3\\zd_3\\zd_3\\crewman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,20 +119,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Human.cs",
+              "RelativeDocumentMoniker": "zd_3\\Human.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Human.cs",
+              "RelativeToolTip": "zd_3\\Human.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwCwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:06:26.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scientist.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Scientist.cs",
+              "RelativeDocumentMoniker": "zd_3\\Scientist.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Scientist.cs",
+              "RelativeToolTip": "zd_3\\Scientist.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:35:35.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OxygenBottle.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\OxygenBottle.cs",
+              "RelativeDocumentMoniker": "zd_3\\OxygenBottle.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\OxygenBottle.cs",
+              "RelativeToolTip": "zd_3\\OxygenBottle.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:15:05.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Fuel.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Fuel.cs",
               "RelativeDocumentMoniker": "zd_3\\Fuel.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Fuel.cs",
               "RelativeToolTip": "zd_3\\Fuel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAWAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T19:16:23.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
+              "Title": "FuelTank.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelTank.cs",
+              "RelativeDocumentMoniker": "zd_3\\FuelTank.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelTank.cs",
+              "RelativeToolTip": "zd_3\\FuelTank.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:18:02.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Equipment.cs",
+              "RelativeDocumentMoniker": "zd_3\\Equipment.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Equipment.cs",
+              "RelativeToolTip": "zd_3\\Equipment.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:51:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Program.cs",
+              "RelativeDocumentMoniker": "zd_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Program.cs",
+              "RelativeToolTip": "zd_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:50:32.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Submarine.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Submarine.cs",
+              "RelativeDocumentMoniker": "zd_3\\Submarine.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Submarine.cs",
+              "RelativeToolTip": "zd_3\\Submarine.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwDgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:51:36.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TestContents.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\TestContents.cs",
               "RelativeDocumentMoniker": "zd_3\\TestContents.cs",
@@ -146,175 +237,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FoodContainer.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FoodContainer.cs",
-              "RelativeDocumentMoniker": "zd_3\\FoodContainer.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FoodContainer.cs",
-              "RelativeToolTip": "zd_3\\FoodContainer.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwDoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:23:35.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OxygenBottle.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\OxygenBottle.cs",
-              "RelativeDocumentMoniker": "zd_3\\OxygenBottle.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\OxygenBottle.cs",
-              "RelativeToolTip": "zd_3\\OxygenBottle.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwC4AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T15:15:05.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Scientist.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Scientist.cs",
-              "RelativeDocumentMoniker": "zd_3\\Scientist.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Scientist.cs",
-              "RelativeToolTip": "zd_3\\Scientist.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T11:35:35.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IVisitPort.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\IVisitPort.cs",
-              "RelativeDocumentMoniker": "zd_3\\IVisitPort.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\IVisitPort.cs",
-              "RelativeToolTip": "zd_3\\IVisitPort.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:05:55.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FuelTank.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelTank.cs",
-              "RelativeDocumentMoniker": "zd_3\\FuelTank.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelTank.cs",
-              "RelativeToolTip": "zd_3\\FuelTank.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowC0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:18:02.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Waste.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Waste.cs",
-              "RelativeDocumentMoniker": "zd_3\\Waste.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Waste.cs",
-              "RelativeToolTip": "zd_3\\Waste.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:09:11.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LifeSupportSystem.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\LifeSupportSystem.cs",
-              "RelativeDocumentMoniker": "zd_3\\LifeSupportSystem.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\LifeSupportSystem.cs",
-              "RelativeToolTip": "zd_3\\LifeSupportSystem.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowD4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:25:03.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Equipment.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Equipment.cs",
-              "RelativeDocumentMoniker": "zd_3\\Equipment.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Equipment.cs",
-              "RelativeToolTip": "zd_3\\Equipment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T09:51:18.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Engine.cs",
-              "RelativeDocumentMoniker": "zd_3\\Engine.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Engine.cs",
-              "RelativeToolTip": "zd_3\\Engine.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwDIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:20:39.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FuelDiesel.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelDiesel.cs",
-              "RelativeDocumentMoniker": "zd_3\\FuelDiesel.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelDiesel.cs",
-              "RelativeToolTip": "zd_3\\FuelDiesel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:17:47.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FuelNuclear.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelNuclear.cs",
-              "RelativeDocumentMoniker": "zd_3\\FuelNuclear.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelNuclear.cs",
-              "RelativeToolTip": "zd_3\\FuelNuclear.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:17:35.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Program.cs",
-              "RelativeDocumentMoniker": "zd_3\\Program.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Program.cs",
-              "RelativeToolTip": "zd_3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T09:50:32.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Human.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Human.cs",
-              "RelativeDocumentMoniker": "zd_3\\Human.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Human.cs",
-              "RelativeToolTip": "zd_3\\Human.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:06:26.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "TestSubmarine.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\TestSubmarine.cs",
               "RelativeDocumentMoniker": "zd_3\\TestSubmarine.cs",
@@ -327,20 +249,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Submarine.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Submarine.cs",
-              "RelativeDocumentMoniker": "zd_3\\Submarine.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Submarine.cs",
-              "RelativeToolTip": "zd_3\\Submarine.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAwDgAAAAZAAAA",
+              "DocumentIndex": 0,
+              "Title": "Waste.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Waste.cs",
+              "RelativeDocumentMoniker": "zd_3\\Waste.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Waste.cs",
+              "RelativeToolTip": "zd_3\\Waste.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T09:51:36.37Z",
+              "WhenOpened": "2024-03-20T19:09:11.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
+              "Title": "LifeSupportSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\LifeSupportSystem.cs",
+              "RelativeDocumentMoniker": "zd_3\\LifeSupportSystem.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\LifeSupportSystem.cs",
+              "RelativeToolTip": "zd_3\\LifeSupportSystem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwD4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:25:03.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVisitPort.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\IVisitPort.cs",
+              "RelativeDocumentMoniker": "zd_3\\IVisitPort.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\IVisitPort.cs",
+              "RelativeToolTip": "zd_3\\IVisitPort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:05:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ITransportable.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\ITransportable.cs",
               "RelativeDocumentMoniker": "zd_3\\ITransportable.cs",
@@ -349,6 +297,32 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T09:50:50.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FuelNuclear.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelNuclear.cs",
+              "RelativeDocumentMoniker": "zd_3\\FuelNuclear.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelNuclear.cs",
+              "RelativeToolTip": "zd_3\\FuelNuclear.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:17:35.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FuelDiesel.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelDiesel.cs",
+              "RelativeDocumentMoniker": "zd_3\\FuelDiesel.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FuelDiesel.cs",
+              "RelativeToolTip": "zd_3\\FuelDiesel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:17:47.485Z",
               "EditorCaption": ""
             },
             {
@@ -362,6 +336,32 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T19:08:04.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Engine.cs",
+              "RelativeDocumentMoniker": "zd_3\\Engine.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\Engine.cs",
+              "RelativeToolTip": "zd_3\\Engine.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:20:39.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FoodContainer.cs",
+              "RelativeDocumentMoniker": "zd_3\\FoodContainer.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab3\\zd_3\\zd_3\\FoodContainer.cs",
+              "RelativeToolTip": "zd_3\\FoodContainer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:23:35.746Z",
               "EditorCaption": ""
             },
             {

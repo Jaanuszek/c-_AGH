@@ -19,8 +19,16 @@ namespace zd_3
         }
         public double Volume { 
             get { return fuel.Volume; }
-            set {
-                fuel.Volume = value;
+            set 
+            {
+                if(value > 0)
+                {
+                    fuel.Volume = value;
+                }
+                else
+                {
+                    fuel.Volume = 0;
+                }
                 fuel.Weight = value * 2;
             }
         }
@@ -32,7 +40,15 @@ namespace zd_3
             }
             set
             {
-                fuel.Weight = value;
+                if(value > 0)
+                {
+                    fuel.Weight = value;
+                }
+                else
+                {
+                    fuel.Weight = 0;
+                }
+
                 fuel.Volume = value / 2;
             }
         }

@@ -18,7 +18,14 @@ namespace zd_3
             get { return volume; }
             set
             {
-                volume = value;
+                if (value > 0)
+                {
+                    volume = value;
+                }
+                else
+                {
+                    volume = 0;
+                }
                 weight = value * 0.5 + 13.5;
             }
 
@@ -28,7 +35,14 @@ namespace zd_3
             get { return weight; }
             set
             {
-                weight = value +13.5; //waga butli z tlenem
+                if (value > 0)
+                {
+                    weight = value + 13.5; //waga butli z tlenem
+                }
+                else
+                {
+                    weight = 0;
+                }
                 volume = value / 0.5;
             }
         }

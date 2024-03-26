@@ -15,7 +15,14 @@ namespace zd_3
             get { return volume; }
             set
             {
-                volume = value;
+                if(value > 0)
+                {
+                    volume = value;
+                }
+                else
+                {
+                    volume = 0;
+                }
                 weight = value * 0.01;
             }
 
@@ -25,7 +32,15 @@ namespace zd_3
             get { return weight; }
             set
             {
-                weight = value;
+                if (value>0)
+                {
+                    weight = value;
+                }
+                else 
+                {
+                    weight = 0;
+                }
+  
                 volume = value / 0.01;
             }
         }
