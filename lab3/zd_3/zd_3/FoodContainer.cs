@@ -19,7 +19,7 @@ namespace zd_3
             set
             {
                 volume = value;
-                weight = value * 0.1;
+                weight = value * 0.5;
             }
 
         }
@@ -29,7 +29,7 @@ namespace zd_3
             set
             {
                 weight = value;
-                volume = value / 0.1;
+                volume = value / 0.5;
             }
         }
         public double MaxCapacity
@@ -42,7 +42,21 @@ namespace zd_3
         public double VisitPort()
         {
             volume = maxCapacity;
-            return weight*30;
+
+            string[] typeOfFood = { "Meat", "Vegetables", "Fruits" };
+            int index = new Random().Next(typeOfFood.Length);
+            if (typeOfFood[index] == "Meat")
+            {
+                return weight * 2;
+            }
+            else if (typeOfFood[index] == "Vegetables")
+            {
+                return weight * 0.5;
+            }
+            else
+            {
+                return weight * 1.5;
+            }
         }
     }
 }

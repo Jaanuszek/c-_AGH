@@ -19,7 +19,7 @@ namespace zd_3
             set
             {
                 volume = value;
-                weight = value * 1.0; //gestosc czlowieka to 1000kg/m^3 tak google podpowiada 
+                weight = value * 3.0; //gestosc czlowieka to 1000kg/m^3 tak google podpowiada 
             }
 
         }
@@ -30,7 +30,7 @@ namespace zd_3
             set
             {
                 weight = value;
-                volume = value / 1.0;
+                volume = value / 3.0;
             }
         }
         abstract public void Work(double time);

@@ -11,7 +11,7 @@ namespace zd_3
         private bool canIRunMyOldPassat;
         public FuelDiesel()
         {
-            density = 0.6;
+            density = 0.5;
             material = "Diesel";
         }
 

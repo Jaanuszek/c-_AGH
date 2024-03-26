@@ -55,12 +55,12 @@ namespace zd_3
                     i.Volume -= 100.0;
                     if (i.Volume == 0) //jezeli wykorzysta sie butle z tlenem to sie ja zalicza jako odpad
                     {
-                        wasteAmmount += 1.0;
+                        wasteAmmount += 13.5;
                     }
                 }
             }
             foodContainer.Weight -= travelTime * 5; // na godzine zuzywa sie 5 racji zywnosciowych
-            wasteAmmount += travelTime * 5; // jak racja zywnosciowa zostanie zjedzona to zaliczamy to jako odpad
+            wasteAmmount += travelTime * 0.5; // jak racja zywnosciowa zostanie zjedzona to zaliczamy to jako odpad
             waste.Weight += wasteAmmount;
             
         }

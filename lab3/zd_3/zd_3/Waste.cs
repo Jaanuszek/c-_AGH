@@ -16,7 +16,7 @@ namespace zd_3
             set
             {
                 volume = value;
-                weight = value * 3;
+                weight = value * 0.01;
             }
 
         }
@@ -26,7 +26,7 @@ namespace zd_3
             set
             {
                 weight = value;
-                volume = value / 3;
+                volume = value / 0.01;
             }
         }
         public double VisitPort()
@@ -35,11 +35,11 @@ namespace zd_3
             bool mixedWaste = new Random().Next(2)==0; // "==0" zeby przekształcić int na bool
             if( mixedWaste )
             {
-                return weight * 2.5;
+                return volume * 0.2;
             }
             else 
             {
-                return weight * 0.5;
+                return volume * 0.1;
             }
 
         }
