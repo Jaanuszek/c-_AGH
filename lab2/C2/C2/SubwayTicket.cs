@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace C2
 {
-    public class dziedziczenie : IBuyTicket
+    class SubwayTicket:Ticket
     {
-        int IBuyTicket.BuyTicket()
+        public override float BuyTicket()
         {
-            return 5;
+            return base.BuyTicket();
         }
     }
 }

@@ -1,34 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\",
+  "WorkspaceRootPath": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\c2\\c2\\dziedziczenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\dziedziczenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\transportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\transportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\c2\\c2\\ibuyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\subwayticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\subwayticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\withinacity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\withinacity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\trainticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\trainticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\busticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\busticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\ibuyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\ibuyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\c2\\c2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\c2\\c2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\c2\\c2\\rower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\rower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\c2\\c2\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\c2\\c2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\subway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\subway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab2\\c2\\c2\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B730CC3C-E449-4284-AD20-55BB3BD8A7C2}|C2\\C2.csproj|solutionrelative:c2\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,91 +78,182 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dziedziczenie.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\dziedziczenie.cs",
-              "RelativeDocumentMoniker": "C2\\dziedziczenie.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\dziedziczenie.cs",
-              "RelativeToolTip": "C2\\dziedziczenie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "WithinACity.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\WithinACity.cs",
+              "RelativeDocumentMoniker": "C2\\WithinACity.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\WithinACity.cs",
+              "RelativeToolTip": "C2\\WithinACity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T17:44:47.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IBuyTicket.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\IBuyTicket.cs",
-              "RelativeDocumentMoniker": "C2\\IBuyTicket.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\IBuyTicket.cs",
-              "RelativeToolTip": "C2\\IBuyTicket.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T17:41:28.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Auto.cs",
-              "RelativeDocumentMoniker": "C2\\Auto.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Auto.cs",
-              "RelativeToolTip": "C2\\Auto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T17:32:14.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Rower.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Rower.cs",
-              "RelativeDocumentMoniker": "C2\\Rower.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Rower.cs",
-              "RelativeToolTip": "C2\\Rower.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T17:30:48.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Train.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Train.cs",
-              "RelativeDocumentMoniker": "C2\\Train.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Train.cs",
-              "RelativeToolTip": "C2\\Train.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T17:13:53.467Z",
+              "WhenOpened": "2024-04-12T12:43:07.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "BusTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\BusTicket.cs",
+              "RelativeDocumentMoniker": "C2\\BusTicket.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\BusTicket.cs",
+              "RelativeToolTip": "C2\\BusTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:32:27.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\TransportFactory.cs",
+              "RelativeDocumentMoniker": "C2\\TransportFactory.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\TransportFactory.cs",
+              "RelativeToolTip": "C2\\TransportFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:17:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\TrainTicket.cs",
+              "RelativeDocumentMoniker": "C2\\TrainTicket.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\TrainTicket.cs",
+              "RelativeToolTip": "C2\\TrainTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:32:03.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Vehicle.cs",
               "RelativeDocumentMoniker": "C2\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Vehicle.cs",
               "RelativeToolTip": "C2\\Vehicle.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T17:13:09.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "SubwayTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\SubwayTicket.cs",
+              "RelativeDocumentMoniker": "C2\\SubwayTicket.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\SubwayTicket.cs",
+              "RelativeToolTip": "C2\\SubwayTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:31:22.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Ticket.cs",
+              "RelativeDocumentMoniker": "C2\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Ticket.cs",
+              "RelativeToolTip": "C2\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:29:05.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Bus.cs",
+              "RelativeDocumentMoniker": "C2\\Bus.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Bus.cs",
+              "RelativeToolTip": "C2\\Bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:39:02.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Car.cs",
+              "RelativeDocumentMoniker": "C2\\Car.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Car.cs",
+              "RelativeToolTip": "C2\\Car.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:32:14.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBuyTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\IBuyTicket.cs",
+              "RelativeDocumentMoniker": "C2\\IBuyTicket.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\IBuyTicket.cs",
+              "RelativeToolTip": "C2\\IBuyTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:41:28.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Train.cs",
+              "RelativeDocumentMoniker": "C2\\Train.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Train.cs",
+              "RelativeToolTip": "C2\\Train.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:13:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Subway.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Subway.cs",
+              "RelativeDocumentMoniker": "C2\\Subway.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Subway.cs",
+              "RelativeToolTip": "C2\\Subway.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:32:50.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Bicycle.cs",
+              "RelativeDocumentMoniker": "C2\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Bicycle.cs",
+              "RelativeToolTip": "C2\\Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:30:48.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Program.cs",
               "RelativeDocumentMoniker": "C2\\Program.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\C2\\C2\\Program.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab2\\C2\\C2\\Program.cs",
               "RelativeToolTip": "C2\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T17:12:25.624Z",
               "EditorCaption": ""

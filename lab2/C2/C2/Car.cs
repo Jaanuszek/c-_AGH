@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace C2
 {
-    public class Auto : Vehicle
+    public class Car : Vehicle
     {
-        public Auto(string _engine, string _horsePower) : base(_engine, _horsePower) { }
+        public Car(string _engine, string _horsePower) : base(_engine, _horsePower) { }
 
         public override string GetVehicleType()
         {
-            return "auto";
+            return "Car";
         }
 
         public override string ToString()

@@ -12,3 +12,11 @@ C:\Users\Kuba\Desktop\c#_AGH\C2\C2\obj\Debug\net8.0\refint\C2.dll
 C:\Users\Kuba\Desktop\c#_AGH\C2\C2\obj\Debug\net8.0\C2.pdb
 C:\Users\Kuba\Desktop\c#_AGH\C2\C2\obj\Debug\net8.0\C2.genruntimeconfig.cache
 C:\Users\Kuba\Desktop\c#_AGH\C2\C2\obj\Debug\net8.0\ref\C2.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab2\C2\C2\obj\Debug\net8.0\C2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\c#_AGH\lab2\C2\C2\obj\Debug\net8.0\C2.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\c#_AGH\lab2\C2\C2\obj\Debug\net8.0\C2.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\c#_AGH\lab2\C2\C2\obj\Debug\net8.0\C2.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\c#_AGH\lab2\C2\C2\obj\Debug\net8.0\C2.sourcelink.json
+C:\Users\Kuba\Desktop\c#_AGH\lab2\C2\C2\obj\Debug\net8.0\C2.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab2\C2\C2\obj\Debug\net8.0\refint\C2.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab2\C2\C2\obj\Debug\net8.0\C2.pdb

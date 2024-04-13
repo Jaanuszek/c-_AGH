@@ -8,6 +8,6 @@ namespace C2
 {
     interface IBuyTicket
     {
-        abstract int BuyTicket();
+        abstract float BuyTicket();
     }
 }

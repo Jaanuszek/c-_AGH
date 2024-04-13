@@ -11,8 +11,8 @@ namespace C2
             //Console.WriteLine(train);
             List<Vehicle> myVehicles = new List<Vehicle>();
             myVehicles.Add(new Train("2jz", "500"));
-            myVehicles.Add(new Rower("brak", "1"));
-            myVehicles.Add(new Auto("1.8TDI", "150"));
+            myVehicles.Add(new Bicycle("brak", "1"));
+            myVehicles.Add(new Car("1.8TDI", "150"));
             foreach (Vehicle v in myVehicles) Console.WriteLine(v.ToString());
 
         }

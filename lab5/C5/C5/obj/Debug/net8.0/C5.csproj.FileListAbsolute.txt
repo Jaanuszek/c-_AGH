@@ -1,0 +1,15 @@
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\bin\Debug\net8.0\C5.exe
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\bin\Debug\net8.0\C5.deps.json
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\bin\Debug\net8.0\C5.runtimeconfig.json
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\bin\Debug\net8.0\C5.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\bin\Debug\net8.0\C5.pdb
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\C5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\C5.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\C5.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\C5.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\C5.sourcelink.json
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\C5.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\refint\C5.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\C5.pdb
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\C5.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\c#_AGH\lab5\C5\C5\obj\Debug\net8.0\ref\C5.dll
