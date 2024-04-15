@@ -26,7 +26,7 @@ namespace C5
                     }
                     else
                     {
-                        Console.WriteLine("No suitable Desk found.");
+                        Console.WriteLine("No suitable Desk found in this price.");
                     }
                     if (w != null)
                     {
@@ -34,7 +34,7 @@ namespace C5
                     }
                     else
                     {
-                        Console.WriteLine("No suitable Wardrobe found.");
+                        Console.WriteLine("No suitable Wardrobe found in this price.");
                     }
                     Console.WriteLine();
                 }

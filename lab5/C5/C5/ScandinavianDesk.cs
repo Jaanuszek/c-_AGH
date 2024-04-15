@@ -12,7 +12,7 @@ namespace C5
         public bool IsCompact { get; set; }
         public override string GetInfo()
         {
-            return "Scandinavian Desk: Price:" + price + " Thickness:" + thickness + " Durability: " + durability;
+            return "Scandinavian Desk: Price:" + price + " Thickness:" + thickness + " Durability: " + durability + " Leg width: "+ LegWidth + " Compact: "+IsCompact;
         }
     }
 }

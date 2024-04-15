@@ -13,7 +13,7 @@ namespace C5
         public bool HasOrnamentation { get; set; } //zdobienia
         public override string GetInfo()
         {
-            return "Classical Wardrobe:  Price:" + price + " Color: " + color + " Material: " + material + " Number of Doors:" + NumberOfDoors;
+            return "Classical Wardrobe:  Price:" + price + " Color: " + color + " Material: " + material + " Number of Doors:" + NumberOfDoors + " Real wood: " + RealWood + " Ornaments: "+ HasOrnamentation;
         }
     }
 }

@@ -15,7 +15,7 @@ namespace C5
         public override string GetInfo()
         {
             //return "Classical Desk: (Price : {Price},Thickness : {Thicness} Durability : {Durability}"; 
-            return "Classical Desk: Price:" + price + " Thickness:" + thickness + " Durability: " + durability;
+            return "Classical Desk: Price:" + price + " Thickness:" + thickness + " Durability: " + durability + " Wood type: "+ WoodType + " DrawersCount: " + DrawersCount;
         }
     }
 }

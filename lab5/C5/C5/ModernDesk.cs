@@ -13,7 +13,7 @@ namespace C5
         public int LedCount { get; set; }
         public override string GetInfo()
         {
-            return "Modern Desk: Price:" + price + " Thickness:" + thickness + " Durability: " + durability;
+            return "Modern Desk: Price:" + price + " Thickness:" + thickness + " Durability: " + durability + " Is adjustable: " + IsAdjustable + " Led ammount: " + LedCount;
         }
     }
 }

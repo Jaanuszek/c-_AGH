@@ -12,7 +12,7 @@ namespace C5
         public string HandleType {  get; set; } // rodzaj uchwytow, w tym stylu raczej uchwyty nie rzucają sie w oczy
         public override string GetInfo()
         {
-            return "Scandinavian Wardrobe:  Price:" + price + " Color: " + color + " Material: " + material + " Number of Doors:" + NumberOfDoors;
+            return "Scandinavian Wardrobe:  Price:" + price + " Color: " + color + " Material: " + material + " Number of Doors:" + NumberOfDoors + " Handle type: "+ HandleType;
         }
     }
 }

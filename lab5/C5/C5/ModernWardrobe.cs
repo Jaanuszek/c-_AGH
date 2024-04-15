@@ -12,7 +12,7 @@ namespace C5
        public int MirrorCount {  get; set; }
         public override string GetInfo()
         {
-            return "Modern Wardrobe:  Price:" + price + " Color: " + color + " Material: " + material + " Number of Doors:" + NumberOfDoors;
+            return "Modern Wardrobe:  Price:" + price + " Color: " + color + " Material: " + material + " Number of Doors:" + NumberOfDoors + " Sliding doors: " + IsSlidingDoors + " Mirror ammount: "+ MirrorCount;
         }
     }
 }
