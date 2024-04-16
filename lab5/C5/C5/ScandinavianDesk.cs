@@ -10,9 +10,17 @@ namespace C5
     {
         public double LegWidth { get; set; }
         public bool IsCompact { get; set; }
+        public ScandinavianDesk(int price, float thickness, string dur, double legWidth, bool isCompact)
+        {
+            Price = price;
+            Thickness = thickness;
+            Durability = dur;
+            LegWidth = legWidth;
+            IsCompact = isCompact;
+        }
         public override string GetInfo()
         {
-            return "Scandinavian Desk: Price:" + price + " Thickness:" + thickness + " Durability: " + durability + " Leg width: "+ LegWidth + " Compact: "+IsCompact;
+            return "Scandinavian Desk: Price:" + Price + " Thickness:" + Thickness + " Durability: " + Durability + " Leg width: "+ LegWidth + " Compact: "+IsCompact;
         }
     }
 }

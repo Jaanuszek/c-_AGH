@@ -8,9 +8,15 @@ namespace C5
 {
     abstract class Desk
     {
-        public int price {  get; set; }
-        public float thickness { get; set; }
-        public string durability { get; set; }
+        public int Price {  get; set; }
+        public float Thickness { get; set; }
+        public string Durability { get; set; }
+        //public Desk(int price, float thickness, string dur)
+        //{
+        //    Price = price;
+        //    Thickness = thickness;
+        //    Durability = dur;
+        //}
         public abstract string GetInfo();
     }
 }

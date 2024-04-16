@@ -8,9 +8,9 @@ namespace C5
 {
     abstract class Wardrobe
     {
-        public int price {  get; set; }
-        public string color { get; set; }
-        public string material {  get; set; }
+        public int Price {  get; set; }
+        public string Color { get; set; }
+        public string Material {  get; set; }
         public int NumberOfDoors { get; set; }
 
         abstract public string GetInfo();

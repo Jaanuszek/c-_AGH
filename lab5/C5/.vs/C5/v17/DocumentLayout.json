@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\classicaldesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\classicaldesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\classicalwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\classicalwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\classicaldesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\classicaldesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\scandinavianwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\scandinavianwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\scandinaviandesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\scandinaviandesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\scandinaviandesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\scandinaviandesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\modernwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\modernwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\moderndesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\moderndesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\classicaldesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\classicaldesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\classicalwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\classicalwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\classicaldesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\classicaldesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\scandinaviandesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\scandinaviandesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\moderndesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +43,12 @@
       "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\interiordesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\modernwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\modernwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\scandinavianwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|solutionrelative:c5\\scandinavianwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFF28039-5C7F-40F2-97A0-C3DD2ABF9FCA}|C5\\C5.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab5\\c5\\c5\\wardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,41 +74,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "ClassicalWardrobe.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalWardrobe.cs",
+              "RelativeDocumentMoniker": "C5\\ClassicalWardrobe.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalWardrobe.cs",
+              "RelativeToolTip": "C5\\ClassicalWardrobe.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA2wA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:13:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ClassicalDesk.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalDesk.cs",
               "RelativeDocumentMoniker": "C5\\ClassicalDesk.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalDesk.cs",
               "RelativeToolTip": "C5\\ClassicalDesk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T09:59:46.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "ClassicalDesign.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalDesign.cs",
+              "RelativeDocumentMoniker": "C5\\ClassicalDesign.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalDesign.cs",
+              "RelativeToolTip": "C5\\ClassicalDesign.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwEkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:46:16.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ScandinavianDesk.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianDesk.cs",
               "RelativeDocumentMoniker": "C5\\ScandinavianDesk.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianDesk.cs",
               "RelativeToolTip": "C5\\ScandinavianDesk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAClAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T09:55:21.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScandinavianDesign.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianDesign.cs",
-              "RelativeDocumentMoniker": "C5\\ScandinavianDesign.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianDesign.cs",
-              "RelativeToolTip": "C5\\ScandinavianDesign.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAArAAAA",
+              "DocumentIndex": 2,
+              "Title": "ModernDesk.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernDesk.cs",
+              "RelativeDocumentMoniker": "C5\\ModernDesk.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernDesk.cs",
+              "RelativeToolTip": "C5\\ModernDesk.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwA0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T10:46:51.169Z",
+              "WhenOpened": "2024-04-13T09:56:27.372Z",
               "EditorCaption": ""
             },
             {
@@ -132,100 +158,75 @@
               "RelativeDocumentMoniker": "C5\\ModernDesign.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernDesign.cs",
               "RelativeToolTip": "C5\\ModernDesign.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBsAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T10:46:27.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ModernWardrobe.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernWardrobe.cs",
-              "RelativeDocumentMoniker": "C5\\ModernWardrobe.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernWardrobe.cs",
-              "RelativeToolTip": "C5\\ModernWardrobe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAADUAAAA",
+              "DocumentIndex": 7,
+              "Title": "ScandinavianDesign.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianDesign.cs",
+              "RelativeDocumentMoniker": "C5\\ScandinavianDesign.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianDesign.cs",
+              "RelativeToolTip": "C5\\ScandinavianDesign.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwCYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:14:38.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ScandinavianWardrobe.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianWardrobe.cs",
-              "RelativeDocumentMoniker": "C5\\ScandinavianWardrobe.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianWardrobe.cs",
-              "RelativeToolTip": "C5\\ScandinavianWardrobe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T10:21:10.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClassicalWardrobe.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalWardrobe.cs",
-              "RelativeDocumentMoniker": "C5\\ClassicalWardrobe.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalWardrobe.cs",
-              "RelativeToolTip": "C5\\ClassicalWardrobe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:13:47.236Z",
+              "WhenOpened": "2024-04-13T10:46:51.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClassicalDesign.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalDesign.cs",
-              "RelativeDocumentMoniker": "C5\\ClassicalDesign.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ClassicalDesign.cs",
-              "RelativeToolTip": "C5\\ClassicalDesign.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwBMAAAARAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\Program.cs",
+              "RelativeDocumentMoniker": "C5\\Program.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\Program.cs",
+              "RelativeToolTip": "C5\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T10:46:16.723Z",
+              "WhenOpened": "2024-04-12T14:06:43.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ModernDesk.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernDesk.cs",
-              "RelativeDocumentMoniker": "C5\\ModernDesk.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernDesk.cs",
-              "RelativeToolTip": "C5\\ModernDesk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAChAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T09:56:27.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Desk.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\Desk.cs",
               "RelativeDocumentMoniker": "C5\\Desk.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\Desk.cs",
               "RelativeToolTip": "C5\\Desk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T09:52:03.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\Program.cs",
-              "RelativeDocumentMoniker": "C5\\Program.cs",
-              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\Program.cs",
-              "RelativeToolTip": "C5\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBsAAAAVAAAA",
+              "DocumentIndex": 10,
+              "Title": "ModernWardrobe.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernWardrobe.cs",
+              "RelativeDocumentMoniker": "C5\\ModernWardrobe.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ModernWardrobe.cs",
+              "RelativeToolTip": "C5\\ModernWardrobe.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:06:43.572Z"
+              "WhenOpened": "2024-04-12T14:14:38.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScandinavianWardrobe.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianWardrobe.cs",
+              "RelativeDocumentMoniker": "C5\\ScandinavianWardrobe.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\ScandinavianWardrobe.cs",
+              "RelativeToolTip": "C5\\ScandinavianWardrobe.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:21:10.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -235,9 +236,10 @@
               "RelativeDocumentMoniker": "C5\\Wardrobe.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab5\\C5\\C5\\Wardrobe.cs",
               "RelativeToolTip": "C5\\Wardrobe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:08:44.973Z"
+              "WhenOpened": "2024-04-12T14:08:44.973Z",
+              "EditorCaption": ""
             }
           ]
         }
