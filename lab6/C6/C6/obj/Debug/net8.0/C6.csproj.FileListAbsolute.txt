@@ -1,0 +1,15 @@
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\bin\Debug\net8.0\C6.exe
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\bin\Debug\net8.0\C6.deps.json
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\bin\Debug\net8.0\C6.runtimeconfig.json
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\bin\Debug\net8.0\C6.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\bin\Debug\net8.0\C6.pdb
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\C6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\C6.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\C6.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\C6.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\C6.sourcelink.json
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\C6.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\refint\C6.dll
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\C6.pdb
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\C6.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\c#_AGH\lab6\C6\C6\obj\Debug\net8.0\ref\C6.dll

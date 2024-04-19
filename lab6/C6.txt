@@ -1,0 +1,2 @@
+C6
+jezeli ktos wybierze krople wody to trzeba uwazac na to ze nie da sie z kazdego stanu przejsc do kazdego, a jezeli wieznia to czy dobrze są punkty rozpisane i czy to ma sens
