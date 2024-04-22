@@ -9,6 +9,7 @@ namespace C6
 {
     class Cloud:DropOfWaterState
     {
+        private string type;
         public Cloud(DropOfWaterSimulation simulation):base(simulation)
         {
             parentSimulation = simulation;
@@ -57,7 +58,23 @@ namespace C6
         } 
         public override string Info()
         {
-            return "I am a cloud";
+            Random random = new Random();
+            int choice = random.Next(1, 3);
+            if(choice == 1)
+            {
+                type = "Cirrus";
+                return "I am a " + type + " cloud";
+            }
+            else if (choice == 2)
+            {
+                type = "Cumulus";
+                return "I am a " + type + " cloud";
+            }
+            else
+            {
+                type = "Layerd";
+                return "I am a "+type+ "cloud";
+            }
         }
     }
 }

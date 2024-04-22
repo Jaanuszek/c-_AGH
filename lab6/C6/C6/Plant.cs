@@ -43,7 +43,7 @@ namespace C6
         }
         public override string Info()
         {
-            return "I am a Plant";
+                return "I am a Plant";
         }
     }
 }

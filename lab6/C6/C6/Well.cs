@@ -8,6 +8,7 @@ namespace C6
 {
     internal class Well : DropOfWaterState
     {
+        private int age;
         public Well(DropOfWaterSimulation simulation) : base(simulation)
         {
             parentSimulation = simulation;

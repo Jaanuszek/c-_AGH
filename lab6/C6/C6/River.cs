@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Transactions;
 
 namespace C6
 {
     internal class River : DropOfWaterState
     {
+        private double speed;
         public River(DropOfWaterSimulation simulation) : base(simulation)
         {
             parentSimulation = simulation;

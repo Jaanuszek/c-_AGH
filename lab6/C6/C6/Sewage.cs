@@ -43,7 +43,7 @@ namespace C6
         }
         public override string Info()
         {
-            return "I am a Sewage";
+            return "It stinks a lot in here, I am a Sewage";
         }
     }
 }

@@ -8,6 +8,7 @@ namespace C6
 {
     internal class Human : DropOfWaterState
     {
+        private string name;
         public Human(DropOfWaterSimulation simulation) : base(simulation)
         {
             parentSimulation = simulation;
@@ -43,7 +44,8 @@ namespace C6
         }
         public override string Info()
         {
-            return "I am a Human";
+            name = "Jakub";
+            return "My name is: "+ name + " I am a human";
         }
     }
 }

@@ -43,7 +43,24 @@ namespace C6
         }
         public override string Info()
         {
-            return "I am a Animal";
+            Random random = new Random();
+            int choice = random.Next(1, 3);
+            if(choice == 0)
+            {
+                return "WOOF WOOF I AM A DOG";
+            }
+            else if(choice == 1)
+            {
+                return "MUUU I AM A COW I NEED TO EAT MORE GRASS";
+            }
+            else if(choice == 2)
+            {
+                return "MIAU I AM A CAT";
+            }
+            else
+            {
+                return "RERE KUMKUM I AM A FROG";
+            }
         }
     }
 }
