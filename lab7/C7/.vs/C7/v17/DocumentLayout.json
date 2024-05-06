@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7\\c7\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|solutionrelative:c7\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7\\c7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|solutionrelative:c7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7\\c7\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|solutionrelative:c7\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7\\c7\\moveeast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|solutionrelative:c7\\moveeast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7\\c7\\movewest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|solutionrelative:c7\\movewest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7\\c7\\movesouth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|solutionrelative:c7\\movesouth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7\\c7\\movenorth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA9AEA5-A5B5-4519-886E-F64D982B888E}|C7\\C7.csproj|solutionrelative:c7\\movenorth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveEast.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\MoveEast.cs",
+              "RelativeDocumentMoniker": "C7\\MoveEast.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\MoveEast.cs",
+              "RelativeToolTip": "C7\\MoveEast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:48:56.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveWest.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\MoveWest.cs",
+              "RelativeDocumentMoniker": "C7\\MoveWest.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\MoveWest.cs",
+              "RelativeToolTip": "C7\\MoveWest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:48:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simulator.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\Simulator.cs",
+              "RelativeDocumentMoniker": "C7\\Simulator.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\Simulator.cs",
+              "RelativeToolTip": "C7\\Simulator.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAA5wFgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:58:24.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveSouth.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\MoveSouth.cs",
+              "RelativeDocumentMoniker": "C7\\MoveSouth.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\MoveSouth.cs",
+              "RelativeToolTip": "C7\\MoveSouth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:49:01.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\Move.cs",
+              "RelativeDocumentMoniker": "C7\\Move.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\Move.cs",
+              "RelativeToolTip": "C7\\Move.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:48:04.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\Program.cs",
+              "RelativeDocumentMoniker": "C7\\Program.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\Program.cs",
+              "RelativeToolTip": "C7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:04:01.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveNorth.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\MoveNorth.cs",
+              "RelativeDocumentMoniker": "C7\\MoveNorth.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7\\C7\\MoveNorth.cs",
+              "RelativeToolTip": "C7\\MoveNorth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:48:47.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

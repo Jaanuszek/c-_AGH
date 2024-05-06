@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\dropofwatersimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\dropofwatersimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\dropofwaterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\dropofwaterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\ocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\dropofwatersimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\dropofwatersimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\dropofwaterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\dropofwaterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\river.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\sewage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\sewage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|c:\\users\\kuba\\desktop\\c#_agh\\lab6\\c6\\c6\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EC4355-450C-4BE5-A9A7-2E8E0ADF1ED5}|C6\\C6.csproj|solutionrelative:c6\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,17 +58,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Program.cs",
               "RelativeDocumentMoniker": "C6\\Program.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Program.cs",
               "RelativeToolTip": "C6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T19:18:14.254Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -80,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Plant.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Plant.cs",
               "RelativeDocumentMoniker": "C6\\Plant.cs",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "C6\\Plant.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAiwCwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:51:05.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:51:05.051Z"
             },
             {
               "$type": "Document",
@@ -99,27 +97,25 @@
               "RelativeDocumentMoniker": "C6\\DropOfWaterState.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\DropOfWaterState.cs",
               "RelativeToolTip": "C6\\DropOfWaterState.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:27:03.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:27:03.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DropOfWaterSimulation.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\DropOfWaterSimulation.cs",
               "RelativeDocumentMoniker": "C6\\DropOfWaterSimulation.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\DropOfWaterSimulation.cs",
               "RelativeToolTip": "C6\\DropOfWaterSimulation.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwC4AAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:27:42.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:27:42.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "River.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\River.cs",
               "RelativeDocumentMoniker": "C6\\River.cs",
@@ -127,12 +123,11 @@
               "RelativeToolTip": "C6\\River.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAmwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:52:33.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:52:33.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Well.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Well.cs",
               "RelativeDocumentMoniker": "C6\\Well.cs",
@@ -140,25 +135,23 @@
               "RelativeToolTip": "C6\\Well.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAmwCkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:52:20.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:52:20.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Human.cs",
               "RelativeDocumentMoniker": "C6\\Human.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Human.cs",
               "RelativeToolTip": "C6\\Human.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAYwCsAAAAJAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:52:41.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:52:41.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Sewage.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Sewage.cs",
               "RelativeDocumentMoniker": "C6\\Sewage.cs",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "C6\\Sewage.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAmwCsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:53:23.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:53:23.098Z"
             },
             {
               "$type": "Document",
@@ -177,14 +169,14 @@
               "RelativeDocumentMoniker": "C6\\Cloud.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Cloud.cs",
               "RelativeToolTip": "C6\\Cloud.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAuwEAAAAAgAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T19:34:49.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Animal.cs",
               "RelativeDocumentMoniker": "C6\\Animal.cs",
@@ -192,12 +184,11 @@
               "RelativeToolTip": "C6\\Animal.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAcwC0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:53:31.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:53:31.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Ocean.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\c#_AGH\\lab6\\C6\\C6\\Ocean.cs",
               "RelativeDocumentMoniker": "C6\\Ocean.cs",
@@ -205,8 +196,7 @@
               "RelativeToolTip": "C6\\Ocean.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAA0wCsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:52:38.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T19:52:38.127Z"
             }
           ]
         }
