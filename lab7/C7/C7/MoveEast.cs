@@ -13,7 +13,7 @@ namespace C7
             Console.WriteLine("You are moving East.");
             if (currentTime >= 6 && currentTime <= 13)
             {
-                Console.WriteLine("You cover your eyes because I'm going under the sun");
+                Console.WriteLine("You cover your eyes because you're going under the sun");
             }
         }
     }
