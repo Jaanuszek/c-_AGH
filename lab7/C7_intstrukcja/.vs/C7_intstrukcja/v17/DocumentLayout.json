@@ -15,6 +15,18 @@
       "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\startwificommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\setalarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\setalarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\wifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\wifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\wifi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\wifi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\wifiadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\wifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\wifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\setthermostatcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\setthermostatcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\setalarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|solutionrelative:c7_intstrukcja\\setalarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{776D4B44-4A8E-4706-908E-7DFE09C701E1}|C7_intstrukcja\\C7_intstrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab7\\c7_intstrukcja\\c7_intstrukcja\\securityalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "WiFiAdapter.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7_intstrukcja\\C7_intstrukcja\\WiFiAdapter.cs",
               "RelativeDocumentMoniker": "C7_intstrukcja\\WiFiAdapter.cs",
@@ -87,12 +87,11 @@
               "RelativeToolTip": "C7_intstrukcja\\WiFiAdapter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T16:19:29.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T16:19:29.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "WiFi2.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7_intstrukcja\\C7_intstrukcja\\WiFi2.cs",
               "RelativeDocumentMoniker": "C7_intstrukcja\\WiFi2.cs",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "C7_intstrukcja\\WiFi2.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAcwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T16:19:03.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T16:19:03.85Z"
             },
             {
               "$type": "Document",
@@ -111,7 +109,7 @@
               "RelativeDocumentMoniker": "C7_intstrukcja\\SmartHomeScheduler.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7_intstrukcja\\C7_intstrukcja\\SmartHomeScheduler.cs",
               "RelativeToolTip": "C7_intstrukcja\\SmartHomeScheduler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T15:52:45.808Z",
               "EditorCaption": ""
@@ -124,7 +122,7 @@
               "RelativeDocumentMoniker": "C7_intstrukcja\\Program.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7_intstrukcja\\C7_intstrukcja\\Program.cs",
               "RelativeToolTip": "C7_intstrukcja\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwBwAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T15:50:11.621Z",
               "EditorCaption": ""
@@ -144,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Thermostat.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7_intstrukcja\\C7_intstrukcja\\Thermostat.cs",
               "RelativeDocumentMoniker": "C7_intstrukcja\\Thermostat.cs",
@@ -157,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SetThermostatCommand.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7_intstrukcja\\C7_intstrukcja\\SetThermostatCommand.cs",
               "RelativeDocumentMoniker": "C7_intstrukcja\\SetThermostatCommand.cs",
@@ -165,18 +163,17 @@
               "RelativeToolTip": "C7_intstrukcja\\SetThermostatCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T16:01:45.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T16:01:45.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "SetAlarmCommand.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7_intstrukcja\\C7_intstrukcja\\SetAlarmCommand.cs",
               "RelativeDocumentMoniker": "C7_intstrukcja\\SetAlarmCommand.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab7\\C7_intstrukcja\\C7_intstrukcja\\SetAlarmCommand.cs",
               "RelativeToolTip": "C7_intstrukcja\\SetAlarmCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAEwAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T16:01:53.923Z",
               "EditorCaption": ""
@@ -191,8 +188,7 @@
               "RelativeToolTip": "C7_intstrukcja\\SecurityAlarm.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAA5wAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T15:52:17.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T15:52:17.1Z"
             },
             {
               "$type": "Document",
@@ -204,8 +200,7 @@
               "RelativeToolTip": "C7_intstrukcja\\ISmartHomeExecutable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T15:51:29.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T15:51:29.106Z"
             }
           ]
         }

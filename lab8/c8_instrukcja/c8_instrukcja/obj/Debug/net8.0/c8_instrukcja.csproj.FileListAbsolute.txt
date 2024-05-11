@@ -1,0 +1,15 @@
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\c8_instrukcja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\c8_instrukcja.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\c8_instrukcja.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\c8_instrukcja.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\c8_instrukcja.sourcelink.json
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\bin\Debug\net8.0\c8_instrukcja.exe
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\bin\Debug\net8.0\c8_instrukcja.deps.json
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\bin\Debug\net8.0\c8_instrukcja.runtimeconfig.json
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\bin\Debug\net8.0\c8_instrukcja.dll
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\bin\Debug\net8.0\c8_instrukcja.pdb
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\c8_instrukcja.dll
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\refint\c8_instrukcja.dll
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\c8_instrukcja.pdb
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\c8_instrukcja.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\c8_instrukcja\c8_instrukcja\obj\Debug\net8.0\ref\c8_instrukcja.dll
