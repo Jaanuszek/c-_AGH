@@ -10,12 +10,9 @@ namespace C8
     {
         public LaserDecorator(Spaceship ship) : base(ship)
         {
-            base.Attack += 50;
+           base.Attack += 50;
+           ship.Attack += 50;
         }
-        //public override int GetNextAttack()
-        //{
-        //    return base.GetNextAttack() + ship.Attack;
-        //}
         public override string Type()
         {
             return base.Type() + " laser";

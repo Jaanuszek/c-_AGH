@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c8_instrukcja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce899c3423d42d3178145988edcc1c954002ce1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a42e8a18cc5aa78bb64d86f945e3af6bb328c86")]
 [assembly: System.Reflection.AssemblyProductAttribute("c8_instrukcja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c8_instrukcja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

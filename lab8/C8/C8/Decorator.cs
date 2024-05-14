@@ -9,7 +9,12 @@ namespace C8
     abstract class Decorator : Spaceship
     {
         protected Spaceship ship;
-
+        public Decorator(Spaceship spaceship)
+        {
+            ship = spaceship;
+            Attack = ship.Attack;
+            Health = ship.Health;
+        }
         public override int GetNextAttack()
         {
             return ship.GetNextAttack();
@@ -20,10 +25,7 @@ namespace C8
             return ship.Type();
         }
 
-        public Decorator(Spaceship spaceship)
-        {
-            ship = spaceship;
-        }
+
 
     }
 }

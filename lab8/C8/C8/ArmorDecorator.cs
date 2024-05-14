@@ -11,7 +11,8 @@ namespace C8
         public ArmorDecorator(Spaceship ship) : base(ship)
         {
             //base.Health += 150;
-            base.Health += 150;
+            Health += 150;
+            ship.Health += 150;
         }
         public override string Type()
         {

@@ -10,7 +10,8 @@ namespace C8
     {
         public ExtraCannonDecorator(Spaceship ship) : base(ship)
         {
-            base.Attack += 50;
+            Attack += 50;
+            ship.Attack += 50;
         }
         //public override int GetNextAttack()
         //{

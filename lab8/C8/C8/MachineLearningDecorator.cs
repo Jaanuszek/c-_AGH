@@ -10,11 +10,12 @@ namespace C8
     {
         public MachineLearningDecorator(Spaceship ship) : base(ship)
         {
-            base.Attack += 25;
+            //base.Attack += 25;
         }
         public override int GetNextAttack()
         {
-            base.Attack += 25;
+            Attack += 25;
+            ship.Attack += 25;
             return base.GetNextAttack();
         }
         public override string Type()

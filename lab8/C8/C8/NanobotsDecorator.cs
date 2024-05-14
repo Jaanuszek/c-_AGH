@@ -10,12 +10,13 @@ namespace C8
     {
         public NanobotsDecorator(Spaceship ship) : base(ship)
         {
-            base.Health += 25;
+            //base.Health += 25;
         }
         public override int GetNextAttack()
         {
-            base.Health += 25;
-            return base.GetNextAttack();
+            Health += 25;
+            ship.Health += 25;
+            return ship.GetNextAttack();
         }
         public override string Type()
         {

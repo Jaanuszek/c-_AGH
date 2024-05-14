@@ -11,23 +11,18 @@ namespace C8
         public static void Run()
         {
             // prepare spaceships
-            Spaceship s1 = new SpaceshipArmor();
-            Spaceship s2 = new SpaceshipLaser();
-            Spaceship s3 = new SpaceshipExtraCannon();
-            Spaceship s4 = new SpaceshipMachineLearning();
-            Spaceship s5 = new SpaceshipNanobots();
-            //List<Spaceship> tournamentList = new List<Spaceship>() { s1,s2,s3,s4,s5 };
-            //s1 = new LaserDecorator(s1);
-            //s2= new ExtraCannonDecorator(s2);
-            //s3 = new MachineLearningDecorator(s3);
-            //s4 = new NanobotsDecorator(s4);
-            //s5 = new ArmorDecorator(s5);
+            SpaceshipArmor s1 = new SpaceshipArmor();
+            SpaceshipLaser s2 = new SpaceshipLaser();
+            SpaceshipExtraCannon s3 = new SpaceshipExtraCannon();
+            SpaceshipMachineLearning s4 = new SpaceshipMachineLearning();
+            SpaceshipNanobots s5 = new SpaceshipNanobots();
+
             Decorator decoratedS1 = new LaserDecorator(s1);
             Decorator decoratedS2 = new ExtraCannonDecorator(s2);
             Decorator decoratedS3 = new MachineLearningDecorator(s3);
             Decorator decoratedS4 = new NanobotsDecorator(s4);
             Decorator decoratedS5 = new ArmorDecorator(s5);
-
+            //List<Spaceship> tournamentList = new List<Spaceship>() { s1,s2,s3,s4,s5 };
             List<Spaceship> tournamentList = new List<Spaceship>() { decoratedS1,decoratedS2,decoratedS3,decoratedS4,decoratedS5 };
 
             // run tournament

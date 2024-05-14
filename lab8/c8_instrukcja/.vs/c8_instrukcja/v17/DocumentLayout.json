@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\snowdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\snowdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\closedendedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\closedendedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\openendedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\openendedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\iweatheralert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\iweatheralert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\iaskable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\iaskable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\fogdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\fogdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\snowdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\snowdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\noalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\noalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\iweatheralert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\iweatheralert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\questionsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,22 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\winddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\winddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\iaskable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\iaskable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\openendedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\openendedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\fogdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\fogdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|c:\\users\\kuba\\desktop\\studia\\semestr 6\\c#_agh\\lab8\\c8_instrukcja\\c8_instrukcja\\closedendedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D1B6B3-FC20-42C7-8DB8-7F630E09FAFE}|c8_instrukcja\\c8_instrukcja.csproj|solutionrelative:c8_instrukcja\\closedendedquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Decorator.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\Decorator.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\Decorator.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "SnowDecorator.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\SnowDecorator.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\SnowDecorator.cs",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "FogDecorator.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\FogDecorator.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\FogDecorator.cs",
@@ -104,11 +104,12 @@
               "RelativeToolTip": "c8_instrukcja\\FogDecorator.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAkwA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:26:37.812Z"
+              "WhenOpened": "2024-05-11T14:26:37.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "WindDecorator.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\WindDecorator.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\WindDecorator.cs",
@@ -116,12 +117,11 @@
               "RelativeToolTip": "c8_instrukcja\\WindDecorator.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAkwAgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:25:05.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:25:05.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "RainAlert.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\RainAlert.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\RainAlert.cs",
@@ -129,12 +129,11 @@
               "RelativeToolTip": "c8_instrukcja\\RainAlert.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:23:32.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:23:32.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "NoAlert.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\NoAlert.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\NoAlert.cs",
@@ -142,12 +141,11 @@
               "RelativeToolTip": "c8_instrukcja\\NoAlert.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:23:08.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:23:08.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IWeatherAlert.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\IWeatherAlert.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\IWeatherAlert.cs",
@@ -160,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "QuestionSample.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\QuestionSample.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\QuestionSample.cs",
@@ -168,12 +166,11 @@
               "RelativeToolTip": "c8_instrukcja\\QuestionSample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:19:59.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:19:59.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "ClosedEndedQuestion.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\ClosedEndedQuestion.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\ClosedEndedQuestion.cs",
@@ -181,24 +178,25 @@
               "RelativeToolTip": "c8_instrukcja\\ClosedEndedQuestion.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:16:01.615Z"
+              "WhenOpened": "2024-05-11T14:16:01.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "OpenEndedQuestion.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\OpenEndedQuestion.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\OpenEndedQuestion.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\OpenEndedQuestion.cs",
               "RelativeToolTip": "c8_instrukcja\\OpenEndedQuestion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T14:15:50.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "IAskable.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\IAskable.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\IAskable.cs",
@@ -211,13 +209,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\Program.cs",
               "RelativeDocumentMoniker": "c8_instrukcja\\Program.cs",
               "ToolTip": "C:\\Users\\Kuba\\Desktop\\studia\\SEMESTR 6\\c#_AGH\\lab8\\c8_instrukcja\\c8_instrukcja\\Program.cs",
               "RelativeToolTip": "c8_instrukcja\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAmAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T14:12:35.494Z",
               "EditorCaption": ""
