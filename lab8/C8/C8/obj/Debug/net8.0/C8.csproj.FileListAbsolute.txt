@@ -1,0 +1,15 @@
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\bin\Debug\net8.0\C8.exe
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\bin\Debug\net8.0\C8.deps.json
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\bin\Debug\net8.0\C8.runtimeconfig.json
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\bin\Debug\net8.0\C8.dll
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\bin\Debug\net8.0\C8.pdb
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\C8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\C8.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\C8.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\C8.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\C8.sourcelink.json
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\C8.dll
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\refint\C8.dll
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\C8.pdb
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\C8.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\studia\SEMESTR 6\c#_AGH\lab8\C8\C8\obj\Debug\net8.0\ref\C8.dll
